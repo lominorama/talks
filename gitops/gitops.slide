@@ -1,0 +1,42 @@
+GitOps
+30 Apr 2019
+
+
+Rael García
+Systems Engineer @CAPSiDE
+me@rael.io
+@raelga
+
+Roi Vázquez
+Systems Engineer @CAPSiDE
+roivazquez@gmail.com
+@lominorama
+
+* Once upon a time ...
+
+* Sysadmins
+
+.image img/dinosaurs.jpg 420 _
+
+* Servers
+
+.image img/servers.jpg 420 _
+
+* Devels
+
+.image img/devels.jpg 420 _
+
+* The bussiness is in the code, not in the servers
+
+- Cycles in development are faster
+- Devels have implemented battle tested good practises: code versioning, code review, testing ...
+
+* And then Linus gave us Git
+
+.image img/linus.jpg 420 _
+
+* GitOps
+
+- Is all about applying development techniques and processes to operations
+- This is now possible because deploying infrastructure is now a much less painfull and less time consuming process thanks to the public cloud
+- Git is the central tool around which all is orchestrated
